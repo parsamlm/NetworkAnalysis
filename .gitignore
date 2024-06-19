@@ -1,0 +1,2 @@
+#ignore any user related files and folders
+.idea/*
