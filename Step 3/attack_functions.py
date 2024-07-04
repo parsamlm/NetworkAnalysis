@@ -1,4 +1,3 @@
-
 import random
 import networkx as nx
 
@@ -43,3 +42,7 @@ def remove_highest_betweenness_nodes_attack(G, f):
         G.remove_node(node[0])
 
     return G
+
+
+
+
