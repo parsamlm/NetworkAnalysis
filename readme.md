@@ -89,4 +89,4 @@
 </ul>
 
 <h2>Data</h2>
-<p>The data which is Twitter's Circles is downloaded from <a href="https://snap.stanford.edu/data/egonets-Twitter.html">Stanford</a> website.</p>
+<p>The data which is Twitter's Circles is downloaded from <a href="https://snap.stanford.edu/data/egonets-Twitter.html">Stanford</a> website. The dataset has 81,306 nodes and 1,768,149 edges.</p>
